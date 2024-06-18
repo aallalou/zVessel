@@ -37,7 +37,7 @@ License
 -------
 All code except the 3rd party code is coverd by the LICENSE.txt file. 
 Files and folders covered by the LICENSE.txt file. 
-example2_runRegistration.m
+example_align_vessel.m
 
 \registration
 \tools

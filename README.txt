@@ -63,4 +63,6 @@ References:
 If you use any part of this code for your research, we 
 would appreciate it if you would refer to the following paper:
 
-"XYXYXYXY"
+"Method to computationally average confocal images of zebrafish lymphatic vessels to identify phenotypes 
+Hannah Arnold, Virginia Panara, Amin Allalou, Katarzyna Koltowska.
+ 

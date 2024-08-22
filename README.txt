@@ -1,19 +1,17 @@
 %--------------------------------------------------------------------------
-% This file is part of the OPT InSitu Toolbox
+% This file is part of the tool zVessel
 %
-% Copyright: 2017   High-Throughput Neurotechnology Group 
-%                   Research Laboratory of Electronics
-%                   Massachusetts Institute of Technology (MIT)
-%                   Cambridge, Massachusetts, USA
+% Copyright: 2024   Department of information technology 
+%                   Uppsala University
+%                   Uppsala, Sweden
 %
 % License: GNU General Public License v3.0
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
-% If you use the OPT InSitu Toolbox for your research, we would appreciate 
+% Website: https://github.com/aallalou/zVessel
+% If you use the zVessel for your research, we would appreciate 
 % if you would refer to the following paper:
 %
-% A. Allalou, Y. Wu, M. Ghannad-Rezaie, P. M. Eimon, and M. F. Yanik, “Automated
-% deep-phenotyping of the vertebrate brain,” Elife, vol. 6, p. e23379, Apr. 2017.
+% -XYXY.
 %
 %--------------------------------------------------------------------------
 

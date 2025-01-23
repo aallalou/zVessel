@@ -11,7 +11,7 @@
 % If you use the zVessel for your research, we would appreciate 
 % if you would refer to the following paper:
 %
-% -XYXY.
+% -Method to computationally average confocal images of zebrafish lymphatic vessels to identify phenotypes .
 %
 %--------------------------------------------------------------------------
 
@@ -61,6 +61,8 @@ References:
 If you use any part of this code for your research, we 
 would appreciate it if you would refer to the following paper:
 
+
 "Method to computationally average confocal images of zebrafish lymphatic vessels to identify phenotypes 
 Hannah Arnold, Virginia Panara, Amin Allalou, Katarzyna Koltowska.
+ 
  

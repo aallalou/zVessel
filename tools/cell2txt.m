@@ -8,14 +8,14 @@
 %    data - cell array to write
 %
 %--------------------------------------------------------------------------
-% This file is part of the OPT InSitu Toolbox
+% This file is part of the zVessel toolbox
 %
-% Copyright: 2017,  Researchlab of electronics,
-%                   Massachusetts Institute of Technology (MIT)
-%                   Cambridge, Massachusetts, USA
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
 % License: 
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
+% Website: https://github.com/aallalou/zVessel
 %--------------------------------------------------------------------------
 function cell2txt( file,data )
 %Create txt file from matlab cell

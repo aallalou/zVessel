@@ -1,3 +1,14 @@
+ 
+%--------------------------------------------------------------------------
+% This file is part of the zVessel toolbox
+%
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
+% License: 
+% Contact: a.allalou@gmail.com
+% Website: https://github.com/aallalou/zVessel
+%--------------------------------------------------------------------------
 function Iiso = isoVoxels(I,resolutionInput,resolutionTarget,interp)
 % correct for resolution diff between xy plane and z axis
 Im = single(squeeze(I));

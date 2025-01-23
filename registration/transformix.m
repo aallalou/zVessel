@@ -11,14 +11,14 @@
 %    Iout - transformed image
 %
 %--------------------------------------------------------------------------
-% This file is part of the OPT InSitu Toolbox
+% This file is part of the zVessel toolbox
 %
-% Copyright: 2017,  Researchlab of electronicss,
-%                   Massachusetts Institute of Technology (MIT)
-%                   Cambridge, Massachusetts, USA
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
 % License: 
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
+% Website: https://github.com/aallalou/zVessel
 %--------------------------------------------------------------------------
 function Iout = transformix(I,filename,varargin)
 useGPU =  any(cell2mat(strfind(varargin, 'gpu')));

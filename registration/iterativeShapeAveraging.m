@@ -1,26 +1,26 @@
 %iterativeShapeAveraging   perform iterative shape averaging according to
-%                          the methods described in paper
+%                          the methods described in the paper
 %
 % [Iave transformMatrix]=iterativeShapeAveraging( I, I_reference,I_mask )
 %
 %
 % Inputs:
 %    I - 4D matrix of all images to be used for iterative shape averaging
-%    I_reference - reference fish to used for inital positioning of average
+%    I_reference - reference to be used for inital positioning of average
 %    I_mask - mask image used to mask region included in the registration
 % Outputs:
 %    I_isa - average image from iterative shape averaging
 %    transformMatrix - transformation matrix containing all transformations
 %                      used for all images
 %--------------------------------------------------------------------------
-% This file is part of the XYZ toolbox
+% This file is part of the zVessel toolbox
 %
 % Copyright: 2023,  Department of Information Technology,
 %                   Uppsala University
 %                   Uppsala, Sweden
 % License: 
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/align_vessel
+% Website: https://github.com/aallalou/zVessel
 %--------------------------------------------------------------------------
 function  I_isa =iterativeShapeAveraging( I, I_reference,I_mask )
 %If GPU is available it can be turn on for usage with elastix

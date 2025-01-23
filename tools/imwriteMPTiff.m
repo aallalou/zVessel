@@ -1,3 +1,14 @@
+%--------------------------------------------------------------------------
+% This file is part of the zVessel toolbox
+%
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
+% License: 
+% Contact: a.allalou@gmail.com
+% Website: https://github.com/aallalou/zVessel
+%--------------------------------------------------------------------------
+
 function imwriteMPTiff( I,filename,useCompression)
 %IMWRITEMPTIFF Summary of this function goes here
 %   Detailed explanation goes here

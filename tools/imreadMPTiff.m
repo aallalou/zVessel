@@ -8,14 +8,14 @@
 % Outputs:
 %    I- output image in format (rows, cols,z-stacks)
 %--------------------------------------------------------------------------
-% This file is part of the OPT InSitu Toolbox
+% This file is part of the zVessel toolbox
 %
-% Copyright: 2023,  Researchlab of electronicss,
-%                   Massachusetts Institute of Technology (MIT)
-%                   Cambridge, Massachusetts, USA
-% License:
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
+% License: 
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
+% Website: https://github.com/aallalou/zVessel
 %--------------------------------------------------------------------------
 function I  = imreadMPTiff(fname)
 

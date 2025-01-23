@@ -20,14 +20,14 @@
 %        'UseGPU',0);
 %
 %--------------------------------------------------------------------------
-% This file is part of the OPT InSitu Toolbox
+% This file is part of the zVessel toolbox
 %
-% Copyright: 2017,  Researchlab of electronicss,
-%                   Massachusetts Institute of Technology (MIT)
-%                   Cambridge, Massachusetts, USA
+% Copyright: 2023,  Department of Information Technology,
+%                   Uppsala University
+%                   Uppsala, Sweden
 % License: 
 % Contact: a.allalou@gmail.com
-% Website: https://github.com/aallalou/OPT-InSitu-Toolbox
+% Website: https://github.com/aallalou/zVessel
 %--------------------------------------------------------------------------
 function Iout = registration3DElastix(varargin)
 I1 =varargin{1};
